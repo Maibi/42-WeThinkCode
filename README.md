@@ -1,5 +1,5 @@
 # 42-WeThinkCode
-My wethinkcode repository.
+This is my wethinkcode projects repository.
 
 /* ************************************************************************** */
 /*                                                                            */
